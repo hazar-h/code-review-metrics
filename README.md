@@ -1,2 +1,2 @@
 # code-review-metrics
-# test pull request2
+# test pull requests
